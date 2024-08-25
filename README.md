@@ -1,2 +1,3 @@
-# 560-A-09-pandas
+# INLS 560
+Programming in Python
 UNC Men's Basketball Data Set
